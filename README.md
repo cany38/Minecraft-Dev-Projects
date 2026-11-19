@@ -15,4 +15,4 @@ Every mod needs [Fabric API](https://modrinth.com/mod/fabric-api) and [GeckoLib]
 
 ## Licence
 
-Car and brand names belong to their owners. This is a non commercial fan project.
+All Rights Reserved. Free for personal play and social media videos/streams (with a link to this repo); selling, modifying, or re-uploading the jars without permission is not allowed. See [LICENSE](LICENSE.md) for full terms. Car and brand names belong to their owners; this is a non commercial fan project.
