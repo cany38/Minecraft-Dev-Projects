@@ -10,8 +10,8 @@ Every mod needs [Fabric API](https://modrinth.com/mod/fabric-api) and [GeckoLib]
 
 | | Vehicle | Download | 3D model |
 |---|---|---|---|
-| <img src="images/bolide.png" width="64"> | **Bugatti Bolide** | [1.0.0](https://github.com/cany38/Minecraft-Dev-Projects/releases/tag/bolide-v1.0.0) | Adapted from an Assetto Corsa community mod |
+| <img src="images/bolide.png" width="64"> | **Bugatti Bolide** | [1.0.0](https://github.com/cany38/Minecraft-Dev-Projects/releases/tag/bolide-v1.0.0) |
 
 ## Licence
 
-The 3D models belong to their authors (see the table). Car and brand names belong to their owners. This is a non-commercial fan project.
+Car and brand names belong to their owners. This is a non commercial fan project.
