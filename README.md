@@ -8,7 +8,7 @@ Every mod needs [Fabric API](https://modrinth.com/mod/fabric-api) and [GeckoLib]
 
 ## Cars
 
-| | Vehicle | Download | 3D model |
+| | Vehicle | Download |
 |---|---|---|---|
 | <img src="images/bolide.png" width="64"> | **Bugatti Bolide** | [1.0.0](https://github.com/cany38/Minecraft-Dev-Projects/releases/tag/bolide-v1.0.0) |
 
