@@ -10,7 +10,7 @@ Every mod needs [Fabric API](https://modrinth.com/mod/fabric-api) and [GeckoLib]
 
 | | Vehicle | Details |
 |---|---|---|
-| <img src="images/bolide.png" width="64"> | **Bugatti Bolide** | <a href="https://github.com/cany38/Minecraft-Dev-Projects/releases/tag/bolide-v1.0.0"><img src="https://img.shields.io/badge/SETUP%20%26%20DETAILS-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Setup and details" height="32"></a> |
+| <img src="images/bolide.png" width="64"> | **Bugatti Bolide** | <a href="https://github.com/cany38/Minecraft-Dev-Projects/releases/tag/bolide-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
 
 ## Licence
 
