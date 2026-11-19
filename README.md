@@ -12,7 +12,7 @@ Every mod needs [Fabric API](https://modrinth.com/mod/fabric-api) and [GeckoLib]
 |---|---|---|
 | <img src="images/bolide.png" width="64"> | **Bugatti Bolide** | <a href="https://github.com/cany38/Minecraft-Dev-Projects/releases/tag/bolide-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
 | <img src="images/tesla.png" width="64"> | **Tesla Roadster** | <a href="https://github.com/cany38/Minecraft-Hypercar-Mods/releases/tag/tesla-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
-| <img src="images/valkyrie.png" width="64"> | **Aston Martin Valkyrie Spider** | <a href="https://github.com/cany38/Minecraft-Hypercar-Mods/releases/tag/valkyrie-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
+| <img src="images/valkyrie.png" width="64"> | **Aston Martin Valkyrie** | <a href="https://github.com/cany38/Minecraft-Hypercar-Mods/releases/tag/valkyrie-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
 
 ## Licence
 
