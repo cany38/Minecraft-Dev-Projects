@@ -17,6 +17,7 @@ Every mod needs [Fabric API](https://modrinth.com/mod/fabric-api) and [GeckoLib]
 | <img src="images/amgone.png" width="64"> | **Mercedes AMG ONE** | <a href="https://github.com/cany38/Minecraft-Hypercar-Mods/releases/tag/amgone-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
 | <img src="images/laferrari.png" width="64"> | **Ferrari LaFerrari** | <a href="https://github.com/cany38/Minecraft-Hypercar-Mods/releases/tag/laferrari-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
 | <img src="images/centodieci.png" width="64"> | **Bugatti Centodieci** | <a href="https://github.com/cany38/Minecraft-Mods/releases/tag/centodieci-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
+| <img src="images/jesko.png" width="64"> | **Koenigsegg Jesko Attack** | <a href="https://github.com/cany38/Minecraft-Mods/releases/tag/jesko-v1.0.0"><img src="https://img.shields.io/badge/DETAILS%20%26%20DOWNLOAD-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Details and download" height="32"></a> |
 
 
 
